@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RUCHI SOLUTIONS | Digital & Portal Support</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- HERO SECTION -->
+<header class="hero">
+  <div class="hero-content">
+    <img src="assets/logo.png" alt="Ruchi Solutions Logo" class="logo">
+    <h1>RUCHI SOLUTIONS</h1>
+    <p class="tagline">There is a solution for every problem – I M POSSIBLE.</p>
+    <a href="#contact" class="btn">Contact Us</a>
+  </div>
+</header>
+
+<!-- ABOUT -->
+<section id="about" class="section">
+  <h2>About Us</h2>
+  <p>
+    We provide doorstep services at home or office as per customer convenience, 
+    even beyond normal working hours in urgent cases.  
+    Our services are designed for business owners who prefer reliable support 
+    at nominal fees without compromising their comfort or time.
+  </p>
+</section>
+
+<!-- SERVICES -->
+<section id="services" class="section light">
+  <h2>Our Services</h2>
+
+  <div class="service-grid">
+    <div class="service-card">Digital Signature Certificate (DSC)</div>
+    <div class="service-card">HYP2003 Token Support</div>
+    <div class="service-card">ICEGATE Registration & Support</div>
+    <div class="service-card">Karnataka e-Procurement Support</div>
+    <div class="service-card">Any Government / Business Portal Support</div>
+    <div class="service-card">Remote & Online Assistance</div>
+  </div>
+</section>
+
+<!-- WHY US -->
+<section class="section">
+  <h2>Why Choose Us</h2>
+  <ul class="why">
+    <li>Doorstep services as per customer convenience</li>
+    <li>No fixed working hours – online support whenever required</li>
+    <li>Quick issue resolution & professional guidance</li>
+    <li>Business-friendly pricing</li>
+  </ul>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" class="section light">
+  <h2>Contact Us</h2>
+
+  <p><strong>Address:</strong><br>
+  Kavoor Ullas Nagar, Kavoor Post,<br>
+  Mangalore – 575015, D.K., Karnataka</p>
+
+  <p><strong>Phone:</strong> 9930885574</p>
+  <p><strong>Email:</strong> ruchisolutions.2022@gmail.com</p>
+
+  <h3>Scan to Review Us on Google</h3>
+  <img src="assets/google-review-qr.png" alt="Google Review QR" class="qr">
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2025 Ruchi Solutions. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
